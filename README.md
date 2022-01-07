@@ -31,4 +31,4 @@ Project Requirements
 2. State the dimensional modeling process for each business process
 3. Using any diagramming tool you like, construct a logical data model for this case study. Output should be an image or PDF. State why did you choose this particular data model design? What does the data represent? (Details about each model component is necessary).
 4. Translate the logical data model to a physical data model which includes the following: tables and  columns (name, data type) Output should be a Word or Excel file.
-5.    Create the 
+Create the table in oracle DBMS and populate sample data to be used in your queries. 
